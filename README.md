@@ -1,4 +1,4 @@
-# 🏔️ HODS – Huğlu Outdoor Distribution System
+# 🏔️ Nexo Grower –  Distribution System
 
 <div align="center">
 
@@ -15,7 +15,7 @@
 
 ## 📌 Nedir?
 
-HODS (Huğlu Outdoor Distribution System), üretim tesisinden son tüketiciye kadar tüm süreçleri entegre eden **çok şubeli**, **merkezden yönetilen**, **gerçek zamanlı izlenebilir** bir dağıtım ve operasyon yönetim sistemidir.
+Nexo Grower ( Distribution System), üretim tesisinden son tüketiciye kadar tüm süreçleri entegre eden **çok şubeli**, **merkezden yönetilen**, **gerçek zamanlı izlenebilir** bir dağıtım ve operasyon yönetim sistemidir.
 
 ### Temel Hedefler
 
@@ -179,8 +179,8 @@ Otomatik şube seçimi için kullanılan kriterler:
 
 ```bash
 # Repo hazır olduğunda:
-git clone https://github.com/zerodaysoftware/hods.git
-cd hods
+git clone https://github.com/berat-eth/Nexo Grower.git
+cd Nexo Grower
 docker-compose up -d
 ```
 
@@ -203,12 +203,12 @@ Tüm hakları saklıdır. *(Henüz açık kaynak lisansı belirlenmemiştir)*
 
 <div align="center">
 
-[![X (Twitter)](https://img.shields.io/badge/X-@zerodaysoftware-black?style=for-the-badge&logo=x)](https://x.com/zerodaysoftware)
+[![X (Twitter)](https://img.shields.io/badge/X-@zerodaysoftware-black?style=for-the-badge&logo=x)](https://x.com/berat.weth)
 
 </div>
 
 ---
 
 <div align="center">
-<sub>HODS – Akıllı, izlenebilir ve kendini optimize eden bir operasyon platformu.</sub>
+<sub>Nexo Grower – Akıllı, izlenebilir ve kendini optimize eden bir operasyon platformu.</sub>
 </div>
